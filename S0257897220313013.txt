@@ -1,0 +1,11 @@
+A.Ph. Ilyushchanka, S.G. Baray, A.I. Letsko, T.L. Talako, Y.D. Manoila, Y. Janu, D. Chaudhary, V.S. Chauhan, L. Saini, M.K. Patra,
+Preparation of Ti-Si-C system and their ceramic composite coatings using gas flame spraying for microwave absorbing applications,
+Surface and Coatings Technology,
+Volume 405,
+2021,
+126631,
+ISSN 0257-8972,
+https://doi.org/10.1016/j.surfcoat.2020.126631.
+(https://www.sciencedirect.com/science/article/pii/S0257897220313013)
+Abstract: We report the synthesis of Ti-Si-C system with MAX-phase (Ti3SiC2) by Mechanically Activated Self-propagating High-temperature Synthesis (MASHS) and preparation of their composite powders with Al2O3 in different weight fractions. In the subsequent step, the composite powders were converted into granules with desired fluidity for gas flame spraying. An in-house designed and developed Thermal Spray Coating apparatus was used in the gas flame spray process to coat the prepared composite powder granules on to Ti alloy substrate. XRD studies reveal formation of MAX-phase Ti3SiC2 primarily and SEM analysis suggests grains of layered morphology that consist of thin lamellar structures of thickness 90–130 nm. During gas flame spraying, Ti3SiC2 decomposes into TiC and their concentrations present in composites consequently influence the electromagnetic (EM) properties of the coating. Based on the EM studies, a suitable ceramic composition has been identified (Al2O3/50wt%Ti-Si-C) that offers better frequency dispersion of permittivity, with broader bandwidth of microwave absorption over 8.2–12.4 GHz. The optimized composite coating of thickness ~1.8 mm shows more than 90% microwave absorption [Reflection Loss (RL) > 10 dB] over 8.3–12.4 GHz with maximum value ~−37 dB at 9.7 GHz. In present investigation, onset of microwave absorbing properties of coating are attributed to interfacial polarization and conduction loss arises due to the presence of TiC and resistive phase Ti3SiC2 in the composite. The Al2O3/Ti-Si-C composites with optimal MAX phase Ti3SiC2 content can be a promising candidate for microwave absorbing stealth applications.
+Keywords: MAX-phase Ti3SiC2; MASHS; Gas flame coatings; Phase composition; MW absorption
