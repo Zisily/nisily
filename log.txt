@@ -218,7 +218,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 📡央视频道[V4],#genre#
 CCTV1,http://101.200.122.188/tv/migu085.php?id=cctv1
-CCTV2,http://101.200.122.188/tv/migu085.php?id=cctv2
+CCTV2,http://39.134.65.173/PLTV/88888888/224/3221225599/1.m3u8
 CCTV3,http://101.200.122.188/tv/migu085.php?id=cctv3
 CCTV4,http://101.200.122.188/tv/migu085.php?id=cctv4
 CCTV4美洲,http://101.200.122.188/tv/migu085.php?id=cctv4a
@@ -241,7 +241,7 @@ CCTV17,http://101.200.122.188/tv/migu085.php?id=cctv17
 
 
 CCTV-1,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
-CCTV-2,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2
+CCTV-2,http://39.134.65.173/PLTV/88888888/224/3221225599/1.m3u8
 CCTV-3,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv3
 CCTV-4,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv4
 CCTV-5,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5
